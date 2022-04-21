@@ -1,6 +1,9 @@
 # C_BINARY.H
 C Macro Library that allows for a binary vs. standard hex. Useful for educational purposes such as teaching first time programmers without having to also teach hex, which can be complicated for a first time programmer in a classroom setting. This is not for real world application.
 
+EG:
+_0b00101001 vs. 41 vs. 0x29
+
 Q: Why was this created?
 
 A: When teaching kids programming (and I’m talking about kids grades 4 to 10) they have a hard enough time understanding binary for the first time, and hex just adds to the confusion. This library can be used to obfuscate the hex side of things and make setting particular bits easier.
