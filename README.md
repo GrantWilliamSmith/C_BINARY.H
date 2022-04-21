@@ -2,7 +2,11 @@
 C Macro Library that allows for a binary vs. standard hex. Useful for educational purposes such as teaching first time programmers without having to also teach hex, which can be complicated for a first time programmer in a classroom setting. This is not for real world application.
 
 EG:
-_0b00101001 vs. 41 vs. 0x29
+(BINARY)    _0b00101001 
+vs. 
+(Decimal)   41 
+vs. 
+(Hex)       0x29
 
 Q: Why was this created?
 
